@@ -1,4 +1,4 @@
-created by : yug parekh @Hypedyug24
+developed/created by : yug parekh @Hypedyug24
 
 # PlantHealth
 
