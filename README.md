@@ -1,9 +1,3 @@
-# plants_health_detecter
-this an plants health checking website. 
-simply upload or click photos of any plant and my web site will detect that is the plant is healthy or not.
-this will also tell you the health percentage of your plant.
-after analyzing if your plant is affected to any disease it will show its name and cure of it. 
-it also has a download a report pdf option if user what to download an plant health report.
 # PlantHealth
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
